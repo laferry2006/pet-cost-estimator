@@ -1,0 +1,1314 @@
+{
+  "country_data": {
+    "fish": {
+      "Vietnam": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10221.5,
+          "avg_rating": 6.75,
+          "count": 4
+        },
+        "玩具及工具": {
+          "avg_price": 12877.0,
+          "avg_rating": 7.0,
+          "count": 6
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "India": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 2
+        },
+        "食物": {
+          "avg_price": 11334.0,
+          "avg_rating": 7.5,
+          "count": 4
+        },
+        "玩具及工具": {
+          "avg_price": 12438.75,
+          "avg_rating": 8.0,
+          "count": 4
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 2
+        }
+      },
+      "Singapore": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 15840.67,
+          "avg_rating": 6.0,
+          "count": 3
+        },
+        "玩具及工具": {
+          "avg_price": 2954.6,
+          "avg_rating": 6.0,
+          "count": 5
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Belgium": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 5547.5,
+          "avg_rating": 6.0,
+          "count": 2
+        },
+        "玩具及工具": {
+          "avg_price": 9618.0,
+          "avg_rating": 6.0,
+          "count": 5
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Turkey": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 8778.67,
+          "avg_rating": 6.0,
+          "count": 3
+        },
+        "玩具及工具": {
+          "avg_price": 14132.5,
+          "avg_rating": 6.0,
+          "count": 4
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "USA": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 4468.0,
+          "avg_rating": 6.0,
+          "count": 2
+        },
+        "玩具及工具": {
+          "avg_price": 12064.5,
+          "avg_rating": 6.0,
+          "count": 6
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Sri Lanka": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9585.5,
+          "avg_rating": 6.45,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 10486.6,
+          "avg_rating": 6.4,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Germany": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 5799.5,
+          "avg_rating": 6.0,
+          "count": 2
+        },
+        "玩具及工具": {
+          "avg_price": 9646.8,
+          "avg_rating": 6.0,
+          "count": 5
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Japan": {
+        "洗护": {
+          "avg_price": 7901.5,
+          "avg_rating": 5.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9585.5,
+          "avg_rating": 6.45,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 10486.6,
+          "avg_rating": 6.4,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 1310.0,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      }
+    },
+    "cat": {
+      "Vietnam": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9356.98,
+          "avg_rating": 6.23,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 9874.76,
+          "avg_rating": 5.92,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 11087.21,
+          "avg_rating": 7.71,
+          "count": 0
+        }
+      },
+      "India": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 19
+        },
+        "食物": {
+          "avg_price": 8793.08,
+          "avg_rating": 6.61,
+          "count": 38
+        },
+        "玩具及工具": {
+          "avg_price": 10423.87,
+          "avg_rating": 7.66,
+          "count": 38
+        },
+        "医疗": {
+          "avg_price": 11225.5,
+          "avg_rating": 7.0,
+          "count": 20
+        }
+      },
+      "Singapore": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10447.89,
+          "avg_rating": 6.11,
+          "count": 9
+        },
+        "玩具及工具": {
+          "avg_price": 8873.46,
+          "avg_rating": 4.85,
+          "count": 13
+        },
+        "医疗": {
+          "avg_price": 12356.67,
+          "avg_rating": 8.0,
+          "count": 3
+        }
+      },
+      "Belgium": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 8114.67,
+          "avg_rating": 5.78,
+          "count": 9
+        },
+        "玩具及工具": {
+          "avg_price": 9251.15,
+          "avg_rating": 4.85,
+          "count": 13
+        },
+        "医疗": {
+          "avg_price": 12550.67,
+          "avg_rating": 9.0,
+          "count": 3
+        }
+      },
+      "Turkey": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9208.7,
+          "avg_rating": 5.9,
+          "count": 10
+        },
+        "玩具及工具": {
+          "avg_price": 10289.5,
+          "avg_rating": 4.67,
+          "count": 12
+        },
+        "医疗": {
+          "avg_price": 6449.5,
+          "avg_rating": 8.5,
+          "count": 2
+        }
+      },
+      "USA": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10909.25,
+          "avg_rating": 5.62,
+          "count": 8
+        },
+        "玩具及工具": {
+          "avg_price": 10779.15,
+          "avg_rating": 5.23,
+          "count": 13
+        },
+        "医疗": {
+          "avg_price": 12506.33,
+          "avg_rating": 9.0,
+          "count": 3
+        }
+      },
+      "Sri Lanka": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9356.98,
+          "avg_rating": 6.23,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 9874.76,
+          "avg_rating": 5.92,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 11087.21,
+          "avg_rating": 7.71,
+          "count": 0
+        }
+      },
+      "Germany": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10674.22,
+          "avg_rating": 6.11,
+          "count": 9
+        },
+        "玩具及工具": {
+          "avg_price": 8607.38,
+          "avg_rating": 4.85,
+          "count": 13
+        },
+        "医疗": {
+          "avg_price": 9105.0,
+          "avg_rating": 9.0,
+          "count": 3
+        }
+      },
+      "Japan": {
+        "洗护": {
+          "avg_price": 9998.79,
+          "avg_rating": 6.37,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9356.98,
+          "avg_rating": 6.23,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 9874.76,
+          "avg_rating": 5.92,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 11087.21,
+          "avg_rating": 7.71,
+          "count": 0
+        }
+      }
+    },
+    "hamster": {
+      "Vietnam": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      },
+      "India": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 2
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 5
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 4
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 2
+        }
+      },
+      "Singapore": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      },
+      "Belgium": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      },
+      "Turkey": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      },
+      "USA": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      },
+      "Sri Lanka": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      },
+      "Germany": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      },
+      "Japan": {
+        "洗护": {
+          "avg_price": 6908.5,
+          "avg_rating": 3.0,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11573.6,
+          "avg_rating": 7.4,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 5256.25,
+          "avg_rating": 7.5,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 12630.0,
+          "avg_rating": 5.5,
+          "count": 0
+        }
+      }
+    },
+    "dog": {
+      "Vietnam": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9692.98,
+          "avg_rating": 6.76,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 10728.24,
+          "avg_rating": 5.66,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 10024.24,
+          "avg_rating": 7.09,
+          "count": 0
+        }
+      },
+      "India": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 18
+        },
+        "食物": {
+          "avg_price": 9528.16,
+          "avg_rating": 7.55,
+          "count": 38
+        },
+        "玩具及工具": {
+          "avg_price": 10425.34,
+          "avg_rating": 7.05,
+          "count": 38
+        },
+        "医疗": {
+          "avg_price": 9437.19,
+          "avg_rating": 6.14,
+          "count": 21
+        }
+      },
+      "Singapore": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11957.38,
+          "avg_rating": 5.62,
+          "count": 8
+        },
+        "玩具及工具": {
+          "avg_price": 9422.54,
+          "avg_rating": 4.85,
+          "count": 13
+        },
+        "医疗": {
+          "avg_price": 11190.33,
+          "avg_rating": 9.0,
+          "count": 3
+        }
+      },
+      "Belgium": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 7806.56,
+          "avg_rating": 6.11,
+          "count": 9
+        },
+        "玩具及工具": {
+          "avg_price": 10026.77,
+          "avg_rating": 4.85,
+          "count": 13
+        },
+        "医疗": {
+          "avg_price": 11847.33,
+          "avg_rating": 8.0,
+          "count": 3
+        }
+      },
+      "Turkey": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 8390.67,
+          "avg_rating": 6.11,
+          "count": 9
+        },
+        "玩具及工具": {
+          "avg_price": 13439.21,
+          "avg_rating": 5.0,
+          "count": 14
+        },
+        "医疗": {
+          "avg_price": 10172.33,
+          "avg_rating": 9.0,
+          "count": 3
+        }
+      },
+      "USA": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 8626.9,
+          "avg_rating": 6.2,
+          "count": 10
+        },
+        "玩具及工具": {
+          "avg_price": 11863.17,
+          "avg_rating": 4.75,
+          "count": 12
+        },
+        "医疗": {
+          "avg_price": 11672.0,
+          "avg_rating": 8.5,
+          "count": 2
+        }
+      },
+      "Sri Lanka": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9692.98,
+          "avg_rating": 6.76,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 10728.24,
+          "avg_rating": 5.66,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 10024.24,
+          "avg_rating": 7.09,
+          "count": 0
+        }
+      },
+      "Germany": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 12443.7,
+          "avg_rating": 6.4,
+          "count": 10
+        },
+        "玩具及工具": {
+          "avg_price": 9564.08,
+          "avg_rating": 4.67,
+          "count": 12
+        },
+        "医疗": {
+          "avg_price": 9834.5,
+          "avg_rating": 8.5,
+          "count": 2
+        }
+      },
+      "Japan": {
+        "洗护": {
+          "avg_price": 8580.39,
+          "avg_rating": 6.61,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9692.98,
+          "avg_rating": 6.76,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 10728.24,
+          "avg_rating": 5.66,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 10024.24,
+          "avg_rating": 7.09,
+          "count": 0
+        }
+      }
+    },
+    "bird": {
+      "Vietnam": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9802.0,
+          "avg_rating": 6.2,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 10003.91,
+          "avg_rating": 5.83,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "India": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 2
+        },
+        "食物": {
+          "avg_price": 8553.6,
+          "avg_rating": 6.2,
+          "count": 5
+        },
+        "玩具及工具": {
+          "avg_price": 10686.25,
+          "avg_rating": 3.25,
+          "count": 4
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 2
+        }
+      },
+      "Singapore": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 5572.0,
+          "avg_rating": 6.0,
+          "count": 2
+        },
+        "玩具及工具": {
+          "avg_price": 8722.4,
+          "avg_rating": 6.0,
+          "count": 5
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Belgium": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 1481.0,
+          "avg_rating": 6.0,
+          "count": 2
+        },
+        "玩具及工具": {
+          "avg_price": 9686.4,
+          "avg_rating": 6.0,
+          "count": 5
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Turkey": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 17201.0,
+          "avg_rating": 6.0,
+          "count": 2
+        },
+        "玩具及工具": {
+          "avg_price": 10458.4,
+          "avg_rating": 6.0,
+          "count": 5
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "USA": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 11906.67,
+          "avg_rating": 6.0,
+          "count": 3
+        },
+        "玩具及工具": {
+          "avg_price": 11330.25,
+          "avg_rating": 6.0,
+          "count": 4
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Sri Lanka": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 12762.33,
+          "avg_rating": 7.0,
+          "count": 3
+        },
+        "玩具及工具": {
+          "avg_price": 10046.67,
+          "avg_rating": 6.83,
+          "count": 6
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Germany": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10252.33,
+          "avg_rating": 6.0,
+          "count": 3
+        },
+        "玩具及工具": {
+          "avg_price": 10037.6,
+          "avg_rating": 6.0,
+          "count": 5
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      },
+      "Japan": {
+        "洗护": {
+          "avg_price": 8391.5,
+          "avg_rating": 3.5,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 9802.0,
+          "avg_rating": 6.2,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 7267.0,
+          "avg_rating": 6.0,
+          "count": 1
+        },
+        "医疗": {
+          "avg_price": 10735.5,
+          "avg_rating": 2.5,
+          "count": 0
+        }
+      }
+    },
+    "rabbit": {
+      "Vietnam": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      },
+      "India": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 3
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 4
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 4
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 2
+        }
+      },
+      "Singapore": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      },
+      "Belgium": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      },
+      "Turkey": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      },
+      "USA": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      },
+      "Sri Lanka": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      },
+      "Germany": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      },
+      "Japan": {
+        "洗护": {
+          "avg_price": 11208.33,
+          "avg_rating": 6.67,
+          "count": 0
+        },
+        "食物": {
+          "avg_price": 10282.25,
+          "avg_rating": 8.5,
+          "count": 0
+        },
+        "玩具及工具": {
+          "avg_price": 11950.0,
+          "avg_rating": 6.75,
+          "count": 0
+        },
+        "医疗": {
+          "avg_price": 7969.0,
+          "avg_rating": 6.5,
+          "count": 0
+        }
+      }
+    }
+  },
+  "global_data": {
+    "fish": {
+      "洗护": {
+        "avg_price": 7901.5,
+        "avg_rating": 5.5
+      },
+      "食物": {
+        "avg_price": 9585.5,
+        "avg_rating": 6.45
+      },
+      "玩具及工具": {
+        "avg_price": 10486.6,
+        "avg_rating": 6.4
+      },
+      "医疗": {
+        "avg_price": 1310.0,
+        "avg_rating": 2.5
+      }
+    },
+    "cat": {
+      "洗护": {
+        "avg_price": 9998.79,
+        "avg_rating": 6.37
+      },
+      "食物": {
+        "avg_price": 9356.98,
+        "avg_rating": 6.23
+      },
+      "玩具及工具": {
+        "avg_price": 9874.76,
+        "avg_rating": 5.92
+      },
+      "医疗": {
+        "avg_price": 11087.21,
+        "avg_rating": 7.71
+      }
+    },
+    "hamster": {
+      "洗护": {
+        "avg_price": 6908.5,
+        "avg_rating": 3.0
+      },
+      "食物": {
+        "avg_price": 11573.6,
+        "avg_rating": 7.4
+      },
+      "玩具及工具": {
+        "avg_price": 5256.25,
+        "avg_rating": 7.5
+      },
+      "医疗": {
+        "avg_price": 12630.0,
+        "avg_rating": 5.5
+      }
+    },
+    "dog": {
+      "洗护": {
+        "avg_price": 8580.39,
+        "avg_rating": 6.61
+      },
+      "食物": {
+        "avg_price": 9692.98,
+        "avg_rating": 6.76
+      },
+      "玩具及工具": {
+        "avg_price": 10728.24,
+        "avg_rating": 5.66
+      },
+      "医疗": {
+        "avg_price": 10024.24,
+        "avg_rating": 7.09
+      }
+    },
+    "bird": {
+      "洗护": {
+        "avg_price": 8391.5,
+        "avg_rating": 3.5
+      },
+      "食物": {
+        "avg_price": 9802.0,
+        "avg_rating": 6.2
+      },
+      "玩具及工具": {
+        "avg_price": 10003.91,
+        "avg_rating": 5.83
+      },
+      "医疗": {
+        "avg_price": 10735.5,
+        "avg_rating": 2.5
+      }
+    },
+    "rabbit": {
+      "洗护": {
+        "avg_price": 11208.33,
+        "avg_rating": 6.67
+      },
+      "食物": {
+        "avg_price": 10282.25,
+        "avg_rating": 8.5
+      },
+      "玩具及工具": {
+        "avg_price": 11950.0,
+        "avg_rating": 6.75
+      },
+      "医疗": {
+        "avg_price": 7969.0,
+        "avg_rating": 6.5
+      }
+    }
+  }
+}
